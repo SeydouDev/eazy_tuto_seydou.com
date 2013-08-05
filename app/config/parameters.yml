@@ -1,0 +1,14 @@
+parameters:
+    database_driver: pdo_mysql
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: Eazy_TUTO
+    database_user: root
+    database_password: root
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    locale: en
+    secret: 5fefc6b016a8c40b4e8b2c104e8cfaa8e
+    database_path: null
